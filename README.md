@@ -15,3 +15,9 @@
 1. Open Android Studio
 1. VCS > Checkout from Version Control > Git
 1. Paste to Vcs Repository URL, Clone
+
+# Promotion Sample 실행
+1. IGAW 홈페이지에서 발급받은 **앱키, 해시키**를 AndroidManifest.xml 파일에 입력
+1. 실행
+
+운영 > 라이브오퍼레이션 > 공지팝업 > 공지팝업 등록 메뉴에서 공지팝업 추가
