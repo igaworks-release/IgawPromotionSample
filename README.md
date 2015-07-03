@@ -22,3 +22,11 @@
 1. 실행
 1. 운영 > 크로스 프로모션 > 퍼블리싱 > 노출위치 메뉴에서 "테스트 광고 송출 및 세부 설정하기" 진행
 1. 테스트 프로모션 광고 확인
+
+# Igaworks Promotion 연동하기
+연동 가이드와 샘플 프로젝트를 참고하여 연동을 진행합니다. </br>
+<a href="http://help.igaworks.com/hc/ko/3_3/Content/Article/promotion_aos" target="_blank">Igaworks Promotion 연동문서 바로가기</a>
+
+쿠폰 서비스는 리워드 지급 처리가 필요합니다.</br> 
+리워드 연동은 다음문서를 참고하여 진행합니다.</br>
+<a href="http://help.igaworks.com/hc/ko/3_3/Content/Article/reward_callback_server_guide" target="_blank">Rward Server 연동문서 바로가기</a>
